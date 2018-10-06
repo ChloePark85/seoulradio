@@ -1,14 +1,17 @@
 body{
     margin:0;
-    background-color:gainsboro;
+    background-color:whitesmoke;
     font-family:Gill Sans;
   }
   a {
     color:black;
     text-align: center;
   }
+  image {
+    align-content: center;
+  }
   h1 {
-    color:pink;
+    color:rgb(50, 214, 214);
     font-size: 45px;
     text-align: center;
     border-bottom:1px solid gray;
