@@ -20,7 +20,7 @@ from community import views
 
 urlpatterns = [
     url('admin/', admin.site.urls),
-    url('write/', views.write),
+    url('', views.write),
     url('list/', views.list),
     url('view/(?P<num>[0-9]+)/$', views.view),
 ]
